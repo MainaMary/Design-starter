@@ -77,7 +77,7 @@ ul li a:hover {
 
 div.hero-section {
     background: #304353;
-    padding: 8rem;
+    padding: 5rem; 
 }
 
 div.hero-content-heading {
@@ -405,7 +405,7 @@ div.footer h6 {
 
     /* Hero section */
     .hero-section{
-        padding: 0;
+        padding: 3rem;
         width: 100%;
     }
     div.hero-content-heading h3{
